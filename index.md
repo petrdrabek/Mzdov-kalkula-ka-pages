@@ -1,7 +1,5 @@
 ## Vítejte na stránce mzdové kalkulačky
 
-You can use the [editor on GitHub](https://github.com/petrdrabek/Mzdov-kalkula-ka-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Tato aplikace je jedna z pilotních aplikací vývojáře Petra Drábka a slouží pro výpočet čisté mzdy na zařízeních s operačním systém iOS i Android.
 
 Aplikace slouží pro výpočet čisté mzdy fyzických osob, určení daně z příjmu, sociálního a zdravotního pojištění placeného zaměstnavatelem a zaměstnancem, daňového bonusu a dalších. Vypočítejte si svou čistou mzdu, daň a slevy na daních jednoduše za pomocí této aplikace. 
