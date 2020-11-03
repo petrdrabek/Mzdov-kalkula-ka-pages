@@ -13,3 +13,5 @@ Aplikace slouží pro výpočet čisté mzdy fyzických osob, určení daně z p
 * Odstranit reklamy
 
 Pro případnou podporu mě kontaktujte na emailu drabek.p51@gmail.com
+
+[Privacy policy](privacypolicy.md)
