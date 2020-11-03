@@ -6,10 +6,10 @@ Aplikace slouží pro výpočet čisté mzdy fyzických osob, určení daně z p
 
 Aplikace umí:
 
-– Počítání čisté mzdy dle aktuálních kritérií
-- Hlavní pracovní poměr, dohodu o pracovní činnosti, dohodu o provedení práce
-- Zobrazit výdaje na jednotlivých odvodech
-- Vytvářet více profilů a ukládat jejich nastavení
-- Odstranit reklamy
+* Počítání čisté mzdy dle aktuálních kritérií
+* Hlavní pracovní poměr, dohodu o pracovní činnosti, dohodu o provedení práce
+* Zobrazit výdaje na jednotlivých odvodech
+* Vytvářet více profilů a ukládat jejich nastavení
+* Odstranit reklamy
 
 Pro případnou podporu mě kontaktujte na emailu drabek.p51@gmail.com
