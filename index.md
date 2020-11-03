@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Vítejte na stránce mzdové kalkulačky
 
 You can use the [editor on GitHub](https://github.com/petrdrabek/Mzdov-kalkula-ka-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tato aplikace je jedna z pilotních aplikací vývojáře Petra Drábka a slouží pro výpočet čisté mzdy na zařízeních s operačním systém iOS i Android.
 
-### Markdown
+Aplikace slouží pro výpočet čisté mzdy fyzických osob, určení daně z příjmu, sociálního a zdravotního pojištění placeného zaměstnavatelem a zaměstnancem, daňového bonusu a dalších. Vypočítejte si svou čistou mzdu, daň a slevy na daních jednoduše za pomocí této aplikace. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aplikace umí:
+– Počítání čisté mzdy dle aktuálních kritérií
+- Hlavní pracovní poměr, dohodu o pracovní činnosti, dohodu o provedení práce
+- Zobrazit výdaje na jednotlivých odvodech
+- Vytvářet více profilů a ukládat jejich nastavení
+- Odstranit reklamy
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/petrdrabek/Mzdov-kalkula-ka-pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Pro případnou podporu mě kontaktujte na emailu drabek.p51@gmail.com
