@@ -1,5 +1,5 @@
-# Mzdová kalkulačka
+# CareSleep
 
-Projekt vytvořen prouze pro vytvoření GitHub stránky pro mobilní aplikaci mzdová kalkulačka.
+Public support, privacy-policy, data-retention, and data-deletion page for the CareSleep mobile application.
 
 https://petrdrabek.github.io/Mzdov-kalkula-ka-pages/
